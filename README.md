@@ -1,1 +1,1 @@
-# Global-Burden-of-Diseases-Analysis
+# Global Burden of Diseases Analysis
