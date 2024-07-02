@@ -1,10 +1,10 @@
 # Global Burden of Diseases Analysis
 ## Table of contents
-- Introduction
-- Question
-- Methods
-- Results and Key Insights
-- Recommedations
+- [Introduction](#Introduction)
+- [Question](#Question)
+- [Methods](#Methods)
+- [Results and Key Insights](#Results-and-Key-Insights)
+- [Recommedations](#Recommedations)
 ### Introduction
 With advancement in medical and scientific technology, it is expected that the number of deaths has decrease. As there are numerous drugs and medical teachnologies avaliable to combat various diseases. Plus, our overall understanding of diseases has increases with utilisation of more accurate scientific research methods and tools.
 ### Question
