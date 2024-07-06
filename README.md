@@ -1,4 +1,5 @@
 # Global Burden of Diseases Analysis
+
 ## Table of contents
 - [Introduction](#Introduction)
 - [Question](#Question)
@@ -24,7 +25,7 @@ With advancement in medical and scientific technology, it is expected that the n
   - Public Health Expenditure
 - There is a positive correlation between number of deaths and population.
 - There is a positive correlation between number of deaths and number of diseases.
-- There is a weak correlation between number of deaths and country GDP. The effects this correlation has varies based on continent.
+- There is a no correlation between number of deaths and country GDP. However, when the values are divided by continent a negative and positive correlation present.
 - Overall there is no correlation between number of deaths and public health expenditure. However, further analysis show the relationship between these two factors in continent dependent. 
 #### Potential reasons why number of deaths increased?
 - Increase in population and increase in diseases resulted in communicable diseases to spread easily.
