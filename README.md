@@ -1,4 +1,5 @@
 # Global Burden of Diseases Analysis
+![image](https://github.com/bioforlife/Global-Burden-of-Diseases-Analysis/assets/173939834/0f15df6c-5605-4c00-ad90-7efada3ed841)
 
 ## Table of contents
 - [Introduction](#Introduction)
@@ -16,8 +17,12 @@ With advancement in medical and scientific technology, it is expected that the n
 - Visualisation: Used seaborn, plotly and matplotlib to visualise and explore the data.
 - Stats: Pearson coefficient, percentage change
 ### Results and Key Insights
+![image](https://github.com/bioforlife/Global-Burden-of-Diseases-Analysis/assets/173939834/749ea106-8c72-4422-a1f2-6ffa6a756d8e)
+
 - Number of deaths has increased overall from 1970 - 2010.
 - Death rate per 100,000 had decreased overall from 1970 - 2010.
+![image](https://github.com/bioforlife/Global-Burden-of-Diseases-Analysis/assets/173939834/b71fabb0-36f4-4e83-b7bc-6ecfc3e9bbfc)
+
 - There has been an increase in:
   - population rate
   - Number of diseases
