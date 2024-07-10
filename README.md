@@ -37,6 +37,6 @@ With advancement in medical and scientific technology, it is expected that the n
 - Educate the public about communicable diseases and the importance of a healthy lifestyle
 - Increase funding of scientific research and health care facilities
 #### Further analysis:
-- The deadliest diseases throughout the years, based on continents and the deadliest diseases from 1970 - 2010 analysis.
+- The deadliest diseases throughout the years, based on continents and the deadliest diseases from 1980 - 2010 analysis.
 
 
