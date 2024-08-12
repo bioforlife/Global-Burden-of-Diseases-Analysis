@@ -42,6 +42,6 @@ With advancement in medical and scientific technology, it is expected that the n
 - Educate the public about communicable diseases and the importance of a healthy lifestyle
 - Increase funding of scientific research and health care facilities
 #### Further analysis:
-- The deadliest diseases throughout the years, based on continents and the [deadliest diseases from 1980 - 2010 analysis](https://github.com/bioforlife/Global-Burden-of-Diseases-Analysis/blob/main/Global%20Burden%20Of%20Diseases%20-%20Jessica%20Thomas%20(1).pptx).
+- The deadliest diseases throughout the years, based on continents and the [deadliest diseases from 1980 - 2010 analysis](https://github.com/bioforlife/Global-Burden-of-Diseases-Analysis/blob/main/Global%20Burden%20Of%20Diseases%20-%20Jessica%20Thomas.pptx).
 
 
