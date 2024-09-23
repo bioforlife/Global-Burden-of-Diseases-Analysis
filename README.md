@@ -43,5 +43,8 @@ With advancement in medical and scientific technology, it is expected that the n
 - Increase funding of scientific research and health care facilities
 #### Further analysis:
 - The deadliest diseases throughout the years, based on continents and the [deadliest diseases from 1980 - 2010 analysis](https://github.com/bioforlife/Global-Burden-of-Diseases-Analysis/blob/main/Global%20Burden%20Of%20Diseases%20-%20Jessica%20Thomas.pptx).
+#### Source:
+- [Tableau Dataset](https://www.tableau.com/learn/articles/free-public-data-sets)
+- [Global Burden of Disease](https://ghdx.healthdata.org/series/global-burden-disease-gbd)
 
 
